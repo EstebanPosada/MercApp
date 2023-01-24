@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/res/google-services/debug/values/values.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/estebanposada/mercapp/BuildConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/estebanposada/mercapp/MercApp_HiltComponents.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/google-services.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/GoogleSignInClient.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/MercApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/PrefixVisualTransformation.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/di/AppModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/di/ServiceModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/models/Book.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/models/Category.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/models/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/models/GroceryItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/models/GroceryItems.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/nav/Destination.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/nav/Destinations.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/repositories/AuthRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/repositories/BookRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/repositories/Result.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/repository/AuthRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/repository/ItemsRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/repository/Result.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ss.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/CustomTopAppBar.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/book/BookDetailScreen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/book/BookDetailState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/book/BookDetailViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/book/BookList.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/book/BookListItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/book/BookListScreen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/book/BookListState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/book/BookListViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/login/Login.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/login/LoginState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/login/LoginViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/main/CheckList.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/main/GroceryItemState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/main/GroceryItemViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/signUp/ForgotPassword.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/ui/signUp/SignUp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/estebanposada/mercapp/utils/AuthResultContract.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_drag.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_important_outline.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/di/LearnComponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/home/BaseLearnFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/home/LearnHomeFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/home/LearnHomeHeaderAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/home/LearnHomeListAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/home/LearnHomeMVIContract.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/home/LearnHomeStatusAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/home/LearnHomeViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/home/skin/ConfigManager.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/home/skin/LearnSkinConfigFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/home/skin/LearnSkinConfigMVIContract.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/home/skin/LearnSkinConfigViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/reward/RewardsFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/reward/RewardsMVIConctract.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/reward/RewardsViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/reward/mygamemodes/MyGameModesFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/reward/shop/RewardGroupAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/reward/shop/RewardItemAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/reward/shop/RewardItemsAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/reward/shop/ShopCatalogFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/reward/shop/ShopCatalogMVIContract.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/reward/shop/ShopCatalogViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/java/me/greenlight/learn/ui/xpstatus/XpLevelTrackingFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/res/layout/fragment_learn_rewards.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/res/layout/fragment_learn_skin_config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/res/layout/fragment_reward_redemption.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/res/layout/fragment_rewards.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/res/layout/fragment_shop_catalog.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/res/layout/status_item_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/res/values/attr.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/res/values/stylesCustomFirstTheme.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/res/values/stylesCustomSecondTheme.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../greenlight-android/Greenlight/domain/learn/learn/src/main/res/values/stylesCustomThemeOne.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
