@@ -3,7 +3,8 @@ name: Build & Publish Debug APK
 
 on:
   push:
-    - master
+    branches:
+      - master
     
 jobs:
   build:
