@@ -39,3 +39,18 @@ jobs:
 #        alias: ${{ secret.ALIAS }}
 #        keystorePassword: ${{ secret.KEY_STORE_PASSWORD }}
 #        keyPassword: ${{ secret.KEY_PASSWORD }}
+
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout project
+        uses: actions/checkout@v3
+        
+      - name: Run Lint
+        run: ./gradlew lintDebug
+        
+      - name: Upload html test report
+        uses: actions/upload-artifact@v3
+        with:
+          name: index.html
+          path: app/build/reports/lint-results-debug.html
