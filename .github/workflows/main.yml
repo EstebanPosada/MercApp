@@ -57,7 +57,7 @@ jobs:
           path: app/build/reports/lint-results-debug.html
           
   unit-test:
-    needs: [lint     ]
+    needs: [lint]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout project
